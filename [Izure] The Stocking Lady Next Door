@@ -1,0 +1,25 @@
+{
+   "title":"[Izure] The Stocking Lady Next Door",
+   "description":"",
+   "author":"Izure",
+   "artist":"Izure",
+   "cover":"https://i.imgur.com/FKJwEUi.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/W9bor1a"
+         },
+         "last_updated":1624606143,
+         "title":"The Stocking Lady Next Door",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/yNm750x"
+         },
+         "last_updated":1624606143,
+         "title":"The Stocking Lady Next Door Feeling Agitated",
+         "volume":"2"
+      }
+   }
+}
