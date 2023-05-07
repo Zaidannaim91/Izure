@@ -1,0 +1,25 @@
+{
+   "title":"[Izure] First Time Yearning",
+   "description":"",
+   "author":"Izure",
+   "artist":"Izure",
+   "cover":"https://i.imgur.com/SNzOkrL.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/PjppYMv"
+         },
+         "last_updated":1624606143,
+         "title":"First Time Yearning #1",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/0E7d308"
+         },
+         "last_updated":1624606143,
+         "title":"First Time Yearning #2",
+         "volume":"2"
+      }
+   }
+}
