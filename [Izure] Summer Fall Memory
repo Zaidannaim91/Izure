@@ -1,0 +1,41 @@
+{
+   "title":"[Izure] Summer Fall Memory",
+   "description":"",
+   "author":"Izure",
+   "artist":"Izure",
+   "cover":"https://i.imgur.com/PInTt0L.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/xkLi2kG"
+         },
+         "last_updated":1624606143,
+         "title":"Summer Fall Memory #1",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/boL0kpg"
+         },
+         "last_updated":1624606143,
+         "title":"Summer Fall Memory #2",
+         "volume":"2"
+      },
+      "3":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/85umERG"
+         },
+         "last_updated":1624606143,
+         "title":"Summer Fall Memory #3",
+         "volume":"3"
+      },
+      "4":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/nPIdd1A"
+         },
+         "last_updated":1624606143,
+         "title":"Summer Fall Memory #4",
+         "volume":"4"
+      }
+   }
+}
